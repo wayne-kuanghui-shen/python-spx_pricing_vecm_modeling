@@ -3,7 +3,7 @@
 **✏️ Introduction**: Existing literature has provided plenty evidence on the associations between equity price movement and macroeconomic variables, but few jointly considers the effects outside economic fundamentals such as investor behavior. So using a vector error correction model, this study aims to investigate the long-run and short-run determinants of the U.S. equity market based on economy, valuation and sentiment dimensions.
 
 ## ⛳️ Objectives 
-- Include broader dimensions of factors such as valuation and sentiment that could potentially impact stock prices
+- Include broader dimensions of factors, valuation and sentiment, that could potentially impact stock prices
 - Explore how the timing of the pricing factors impact stock prices, both short-run and long-run, using the built-in mechanism of the vector error correction model
 - Apply the *"short-run and long-run determinants"* concept to improve strategic and tactical asset allocation strategy
 
