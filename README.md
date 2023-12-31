@@ -21,8 +21,9 @@
 
 ## 💡 Highlights 
 
-<img src="" >
-<img src="" >
-<img src="" >
-<img src="" >
-<img src="" >
+<img src="https://github.com/wayne-kuanghui-shen/python-spx_pricing_vecm_modeling/blob/main/highlights/VECM_ECMs.png" >
+<img src="https://github.com/wayne-kuanghui-shen/python-spx_pricing_vecm_modeling/blob/main/highlights/VECM_lr_coef.png" >
+<img src="https://github.com/wayne-kuanghui-shen/python-spx_pricing_vecm_modeling/blob/main/highlights/VECM_sr_coef.png" >
+<img src="https://github.com/wayne-kuanghui-shen/python-spx_pricing_vecm_modeling/blob/main/highlights/impluse_response.png" >
+<img src="https://github.com/wayne-kuanghui-shen/python-spx_pricing_vecm_modeling/blob/main/highlights/variance_decomposition.png" >
+<img src="https://github.com/wayne-kuanghui-shen/python-spx_pricing_vecm_modeling/blob/main/highlights/forecasting.png" >
