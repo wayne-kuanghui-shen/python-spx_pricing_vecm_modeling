@@ -4,8 +4,8 @@
 
 ## ⛳️ Objectives 
 - Include broader dimensions of factors, valuation and sentiment, that could potentially impact stock prices
-- Explore how the timing of the pricing factors impact stock prices, both short-run and long-run, using the built-in mechanism of the vector error correction model
-- Apply the *"short-run and long-run determinants"* concept to improve strategic and tactical asset allocation strategy
+- Explore how the timing of the pricing factors impact stock prices, both short-run and long-run with VECM
+- Apply the *"short-run and long-run"* concept to improve strategic and tactical asset allocation strategy
 
 ## 📍 Conclusions
 - Valuation and sentiment are two important dimensions of factors for equity pricing
